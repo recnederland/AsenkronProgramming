@@ -1,0 +1,7 @@
+.card-header, .card-title{
+    background-color: rgb(186, 237, 183);
+}
+
+.amount, .outputResult{
+    background-color: rgb(199, 33, 91);
+}
